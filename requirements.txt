@@ -38,6 +38,7 @@ parso==0.6.0
 patsy==0.5.1
 pexpect==4.8.0
 pickleshare==0.7.5
+pillow==7.0.0
 prometheus-client==0.7.1
 prompt-toolkit==2.0.10
 ptyprocess==0.6.0
@@ -58,7 +59,7 @@ statsmodels==0.11.0
 suod==0.0.2
 terminado==0.8.3
 testpath==0.4.4
-tornado==6.0.3
+tornado==5.1.1
 traitlets==4.3.3
 wcwidth==0.1.8
 webencodings==0.5.1
